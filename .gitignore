@@ -4,7 +4,6 @@ crates/*/target/
 Cargo.lock
 
 # IDE and editor files
-.vscode/
 .idea/
 *.swp
 *.swo
@@ -182,3 +181,7 @@ local-bin/
 # Container files
 Dockerfile.local
 docker-compose.override.yml
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
